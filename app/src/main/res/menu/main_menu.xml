@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_notification"
+        android:title="Notificação"
+        android:icon="@drawable/ic_notification"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_message"
+        android:title="Mensagem"
+        android:icon="@drawable/ic_message"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_search"
+        android:title="Pedidos"
+        android:icon="@drawable/ic_serach"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_delivery"
+        android:title="Entrega"
+        android:icon="@drawable/ic_delivery"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_profile"
+        android:title="Perfil"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="always"/>
+
+</menu>

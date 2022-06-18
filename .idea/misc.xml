@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Firebase/app/src/doador/res/layout/fragment_login.xml" value="0.44972826086956524" />
+        <entry key="..\:/Firebase/app/src/donatario/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Firebase/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/donatario/res/layout/activity_main.xml" value="0.3109375" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/donatario/res/layout/fragment_login.xml" value="0.3109375" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/drawable/bg_button.xml" value="0.149" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/drawable/bg_edit_text.xml" value="0.122" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_address.xml" value="0.5" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_home.xml" value="0.3104166666666667" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_login.xml" value="0.26170212765957446" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_register.xml" value="0.4616858237547893" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_sign_out.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/d-dda/Documents/Fatec/Firebase/app/src/main/res/layout/fragment_splash.xml" value="0.401268115942029" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable-v24/ic_teste_round.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/bg_button.xml" value="0.188" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/bottom_sheet.xml" value="0.188" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_add.xml" value="0.2275" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_banner_foreground.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.1235" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_logo_background.xml" value="0.313" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_notification.xml" value="0.1865" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_teste.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/ic_teste_foreground.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/item_donate_delivery.xml" value="0.1905" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/search_bg.xml" value="0.2015" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/shadow_card.xml" value="0.1905" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/drawable/splash_bd.xml" value="0.14" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/activity_main.xml" value="0.2672239108409321" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_delivery.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_donate.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_donate_accepted.xml" value="0.23684210526315788" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_home.xml" value="0.2629781420765027" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_login.xml" value="0.34364820846905536" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_menu_bottom.xml" value="0.1" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_message.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_notification.xml" value="0.3368055555555556" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_profile.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_register.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/fragment_splash.xml" value="0.34136807817589576" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/item_donate_delivery.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/item_searcg.xml" value="0.33" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/layout/item_search.xml" value="0.33" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/menu/main_menu.xml" value="0.34364820846905536" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/menu/menu_search.xml" value="0.3470394736842105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.314" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_logo3.xml" value="0.313" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_logo3_round.xml" value="0.313" />
+        <entry key="..\:/backup/Firebase/app/src/main/res/mipmap-anydpi-v26/ic_teste.xml" value="0.314" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
